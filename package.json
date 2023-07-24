@@ -1,0 +1,24 @@
+{
+  "name": "tod_restaurant",
+  "version": "1.0.0",
+  "description": "Proyect restaurant page from the odin proyect in javascript module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoCurci/TOD_Restaurant.git"
+  },
+  "author": "Franco curci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoCurci/TOD_Restaurant/issues"
+  },
+  "homepage": "https://github.com/FrancoCurci/TOD_Restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
